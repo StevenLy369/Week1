@@ -12,3 +12,29 @@ img{
     width: 50%;
     height: 50%;
 }
+
+
+.hobbies{
+    list-style: none;
+}
+
+.hobbieList{
+    font-size: 18px;
+}
+
+.wings{
+    float: left;
+}
+
+.wingstext{
+    position: absolute;
+    left: 100px;
+    font-size: 18px;
+}
+
+.charlietext{
+    position: absolute;
+    right: 175px;
+    font-size: 18px;
+
+}
