@@ -3,7 +3,7 @@ Solo test using what I've learned through the week.
 
 
 ## By Steven Ly
-
+Published at https://stevenly369.github.io/Week1/
 
 ## Technologies used
 HTML
