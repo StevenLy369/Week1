@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
