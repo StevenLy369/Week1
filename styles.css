@@ -25,16 +25,16 @@ img{
 .wings{
     float: left;
 }
-
+/* 
 .wingstext{
-    position: absolute;
+    position: relative;
     left: 100px;
     font-size: 18px;
 }
 
 .charlietext{
-    position: absolute;
+    position: relative;
     right: 175px;
     font-size: 18px;
 
-}
+} */
