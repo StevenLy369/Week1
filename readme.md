@@ -6,7 +6,7 @@ Solo test using what I've learned through the week.
 
 
 ## Technologies used
-HTMl
+HTML
 CSS
 Bootstrap
 
